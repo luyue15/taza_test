@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative '../lib/taza/generators/taza_generators'
+
+Taza::TazaGenerators.start
